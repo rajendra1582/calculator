@@ -4,7 +4,7 @@
 <html>
 <head>
 
-<title>my calci</title> 
+<title>my calculator</title> 
 <style type=text/css>
 
 
